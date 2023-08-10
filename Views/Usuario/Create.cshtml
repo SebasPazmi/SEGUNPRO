@@ -1,0 +1,23 @@
+﻿
+@model UsuarioModel
+@{
+    ViewData["Title"] = "Mostrar Usuario";
+    Layout = "Simple";
+}
+@*<div asp-validation-summary="All"></div>*@
+<div>
+    <form method="POST">
+        <label asp-for="Nombre"></label>
+        <input asp-for="Nombre" />
+        <br />
+        <label asp-for="Clave"></label>
+        <input asp-for="Clave" />
+        
+        <br />
+        <label asp-for="IdEmpleado"></label>
+        <input asp-for="IdEmpleado" />
+        <br />
+        
+        <input type="submit" />
+    </form>
+</div>

@@ -1,0 +1,201 @@
+is_global = true
+build_property.TargetFramework = net7.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Farmacia
+build_property.RootNamespace = Farmacia
+build_property.ProjectDir = C:\Users\Sebastian\Documents\ITQ\SEMESTRE 4\LENGUAJE DE PROGRAMACIÓN 3-SEMESTRE 4-MODULO 2\proyecto\final\PROYECTO FINAL\proyfin\
+build_property.RazorLangVersion = 7.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\Sebastian\Documents\ITQ\SEMESTRE 4\LENGUAJE DE PROGRAMACIÓN 3-SEMESTRE 4-MODULO 2\proyecto\final\PROYECTO FINAL\proyfin
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/Sebastian/Documents/ITQ/SEMESTRE 4/LENGUAJE DE PROGRAMACIÓN 3-SEMESTRE 4-MODULO 2/proyecto/final/PROYECTO FINAL/proyfin/Views/Account/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Sebastian/Documents/ITQ/SEMESTRE 4/LENGUAJE DE PROGRAMACIÓN 3-SEMESTRE 4-MODULO 2/proyecto/final/PROYECTO FINAL/proyfin/Views/Cliente/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xpZW50ZVxDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Sebastian/Documents/ITQ/SEMESTRE 4/LENGUAJE DE PROGRAMACIÓN 3-SEMESTRE 4-MODULO 2/proyecto/final/PROYECTO FINAL/proyfin/Views/Cliente/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xpZW50ZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Sebastian/Documents/ITQ/SEMESTRE 4/LENGUAJE DE PROGRAMACIÓN 3-SEMESTRE 4-MODULO 2/proyecto/final/PROYECTO FINAL/proyfin/Views/Cliente/MultiCliente.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xpZW50ZVxNdWx0aUNsaWVudGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Sebastian/Documents/ITQ/SEMESTRE 4/LENGUAJE DE PROGRAMACIÓN 3-SEMESTRE 4-MODULO 2/proyecto/final/PROYECTO FINAL/proyfin/Views/Detallesventa/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGV0YWxsZXN2ZW50YVxDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Sebastian/Documents/ITQ/SEMESTRE 4/LENGUAJE DE PROGRAMACIÓN 3-SEMESTRE 4-MODULO 2/proyecto/final/PROYECTO FINAL/proyfin/Views/Detallesventa/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGV0YWxsZXN2ZW50YVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Sebastian/Documents/ITQ/SEMESTRE 4/LENGUAJE DE PROGRAMACIÓN 3-SEMESTRE 4-MODULO 2/proyecto/final/PROYECTO FINAL/proyfin/Views/Detallesventa/MultiDetallesventa.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGV0YWxsZXN2ZW50YVxNdWx0aURldGFsbGVzdmVudGEuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Sebastian/Documents/ITQ/SEMESTRE 4/LENGUAJE DE PROGRAMACIÓN 3-SEMESTRE 4-MODULO 2/proyecto/final/PROYECTO FINAL/proyfin/Views/Direccion/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGlyZWNjaW9uXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Sebastian/Documents/ITQ/SEMESTRE 4/LENGUAJE DE PROGRAMACIÓN 3-SEMESTRE 4-MODULO 2/proyecto/final/PROYECTO FINAL/proyfin/Views/Direccion/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGlyZWNjaW9uXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Sebastian/Documents/ITQ/SEMESTRE 4/LENGUAJE DE PROGRAMACIÓN 3-SEMESTRE 4-MODULO 2/proyecto/final/PROYECTO FINAL/proyfin/Views/Direccion/MultiDireccion.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGlyZWNjaW9uXE11bHRpRGlyZWNjaW9uLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Sebastian/Documents/ITQ/SEMESTRE 4/LENGUAJE DE PROGRAMACIÓN 3-SEMESTRE 4-MODULO 2/proyecto/final/PROYECTO FINAL/proyfin/Views/Empleado/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wbGVhZG9cQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Sebastian/Documents/ITQ/SEMESTRE 4/LENGUAJE DE PROGRAMACIÓN 3-SEMESTRE 4-MODULO 2/proyecto/final/PROYECTO FINAL/proyfin/Views/Empleado/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wbGVhZG9cSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Sebastian/Documents/ITQ/SEMESTRE 4/LENGUAJE DE PROGRAMACIÓN 3-SEMESTRE 4-MODULO 2/proyecto/final/PROYECTO FINAL/proyfin/Views/Empleado/MultiEmpleado.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wbGVhZG9cTXVsdGlFbXBsZWFkby5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Sebastian/Documents/ITQ/SEMESTRE 4/LENGUAJE DE PROGRAMACIÓN 3-SEMESTRE 4-MODULO 2/proyecto/final/PROYECTO FINAL/proyfin/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Sebastian/Documents/ITQ/SEMESTRE 4/LENGUAJE DE PROGRAMACIÓN 3-SEMESTRE 4-MODULO 2/proyecto/final/PROYECTO FINAL/proyfin/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Sebastian/Documents/ITQ/SEMESTRE 4/LENGUAJE DE PROGRAMACIÓN 3-SEMESTRE 4-MODULO 2/proyecto/final/PROYECTO FINAL/proyfin/Views/Medicamento/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWVkaWNhbWVudG9cQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Sebastian/Documents/ITQ/SEMESTRE 4/LENGUAJE DE PROGRAMACIÓN 3-SEMESTRE 4-MODULO 2/proyecto/final/PROYECTO FINAL/proyfin/Views/Medicamento/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWVkaWNhbWVudG9cRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Sebastian/Documents/ITQ/SEMESTRE 4/LENGUAJE DE PROGRAMACIÓN 3-SEMESTRE 4-MODULO 2/proyecto/final/PROYECTO FINAL/proyfin/Views/Medicamento/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWVkaWNhbWVudG9cRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Sebastian/Documents/ITQ/SEMESTRE 4/LENGUAJE DE PROGRAMACIÓN 3-SEMESTRE 4-MODULO 2/proyecto/final/PROYECTO FINAL/proyfin/Views/Medicamento/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWVkaWNhbWVudG9cRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Sebastian/Documents/ITQ/SEMESTRE 4/LENGUAJE DE PROGRAMACIÓN 3-SEMESTRE 4-MODULO 2/proyecto/final/PROYECTO FINAL/proyfin/Views/Medicamento/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWVkaWNhbWVudG9cSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Sebastian/Documents/ITQ/SEMESTRE 4/LENGUAJE DE PROGRAMACIÓN 3-SEMESTRE 4-MODULO 2/proyecto/final/PROYECTO FINAL/proyfin/Views/Medicamento/MultiMedicamento.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWVkaWNhbWVudG9cTXVsdGlNZWRpY2FtZW50by5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Sebastian/Documents/ITQ/SEMESTRE 4/LENGUAJE DE PROGRAMACIÓN 3-SEMESTRE 4-MODULO 2/proyecto/final/PROYECTO FINAL/proyfin/Views/Proveedor/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvdmVlZG9yXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Sebastian/Documents/ITQ/SEMESTRE 4/LENGUAJE DE PROGRAMACIÓN 3-SEMESTRE 4-MODULO 2/proyecto/final/PROYECTO FINAL/proyfin/Views/Proveedor/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvdmVlZG9yXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Sebastian/Documents/ITQ/SEMESTRE 4/LENGUAJE DE PROGRAMACIÓN 3-SEMESTRE 4-MODULO 2/proyecto/final/PROYECTO FINAL/proyfin/Views/Proveedor/MultiProveedor.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvdmVlZG9yXE11bHRpUHJvdmVlZG9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Sebastian/Documents/ITQ/SEMESTRE 4/LENGUAJE DE PROGRAMACIÓN 3-SEMESTRE 4-MODULO 2/proyecto/final/PROYECTO FINAL/proyfin/Views/Receta/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVjZXRhXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Sebastian/Documents/ITQ/SEMESTRE 4/LENGUAJE DE PROGRAMACIÓN 3-SEMESTRE 4-MODULO 2/proyecto/final/PROYECTO FINAL/proyfin/Views/Receta/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVjZXRhXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Sebastian/Documents/ITQ/SEMESTRE 4/LENGUAJE DE PROGRAMACIÓN 3-SEMESTRE 4-MODULO 2/proyecto/final/PROYECTO FINAL/proyfin/Views/Receta/MultiReceta.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVjZXRhXE11bHRpUmVjZXRhLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Sebastian/Documents/ITQ/SEMESTRE 4/LENGUAJE DE PROGRAMACIÓN 3-SEMESTRE 4-MODULO 2/proyecto/final/PROYECTO FINAL/proyfin/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Sebastian/Documents/ITQ/SEMESTRE 4/LENGUAJE DE PROGRAMACIÓN 3-SEMESTRE 4-MODULO 2/proyecto/final/PROYECTO FINAL/proyfin/Views/Shared/HomeLayout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEhvbWVMYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Sebastian/Documents/ITQ/SEMESTRE 4/LENGUAJE DE PROGRAMACIÓN 3-SEMESTRE 4-MODULO 2/proyecto/final/PROYECTO FINAL/proyfin/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Sebastian/Documents/ITQ/SEMESTRE 4/LENGUAJE DE PROGRAMACIÓN 3-SEMESTRE 4-MODULO 2/proyecto/final/PROYECTO FINAL/proyfin/Views/Sucursal/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3VjdXJzYWxcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Sebastian/Documents/ITQ/SEMESTRE 4/LENGUAJE DE PROGRAMACIÓN 3-SEMESTRE 4-MODULO 2/proyecto/final/PROYECTO FINAL/proyfin/Views/Sucursal/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3VjdXJzYWxcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Sebastian/Documents/ITQ/SEMESTRE 4/LENGUAJE DE PROGRAMACIÓN 3-SEMESTRE 4-MODULO 2/proyecto/final/PROYECTO FINAL/proyfin/Views/Sucursal/MultiSucursal.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3VjdXJzYWxcTXVsdGlTdWN1cnNhbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Sebastian/Documents/ITQ/SEMESTRE 4/LENGUAJE DE PROGRAMACIÓN 3-SEMESTRE 4-MODULO 2/proyecto/final/PROYECTO FINAL/proyfin/Views/Usuario/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXN1YXJpb1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Sebastian/Documents/ITQ/SEMESTRE 4/LENGUAJE DE PROGRAMACIÓN 3-SEMESTRE 4-MODULO 2/proyecto/final/PROYECTO FINAL/proyfin/Views/Usuario/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXN1YXJpb1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Sebastian/Documents/ITQ/SEMESTRE 4/LENGUAJE DE PROGRAMACIÓN 3-SEMESTRE 4-MODULO 2/proyecto/final/PROYECTO FINAL/proyfin/Views/Usuario/MultiUsuario.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXN1YXJpb1xNdWx0aVVzdWFyaW8uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Sebastian/Documents/ITQ/SEMESTRE 4/LENGUAJE DE PROGRAMACIÓN 3-SEMESTRE 4-MODULO 2/proyecto/final/PROYECTO FINAL/proyfin/Views/Venta/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVmVudGFcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Sebastian/Documents/ITQ/SEMESTRE 4/LENGUAJE DE PROGRAMACIÓN 3-SEMESTRE 4-MODULO 2/proyecto/final/PROYECTO FINAL/proyfin/Views/Venta/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVmVudGFcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Sebastian/Documents/ITQ/SEMESTRE 4/LENGUAJE DE PROGRAMACIÓN 3-SEMESTRE 4-MODULO 2/proyecto/final/PROYECTO FINAL/proyfin/Views/Venta/MultiVenta.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVmVudGFcTXVsdGlWZW50YS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Sebastian/Documents/ITQ/SEMESTRE 4/LENGUAJE DE PROGRAMACIÓN 3-SEMESTRE 4-MODULO 2/proyecto/final/PROYECTO FINAL/proyfin/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Sebastian/Documents/ITQ/SEMESTRE 4/LENGUAJE DE PROGRAMACIÓN 3-SEMESTRE 4-MODULO 2/proyecto/final/PROYECTO FINAL/proyfin/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Sebastian/Documents/ITQ/SEMESTRE 4/LENGUAJE DE PROGRAMACIÓN 3-SEMESTRE 4-MODULO 2/proyecto/final/PROYECTO FINAL/proyfin/Views/Shared/LibroSimple.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXExpYnJvU2ltcGxlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = b-45hfwxcks7
+
+[C:/Users/Sebastian/Documents/ITQ/SEMESTRE 4/LENGUAJE DE PROGRAMACIÓN 3-SEMESTRE 4-MODULO 2/proyecto/final/PROYECTO FINAL/proyfin/Views/Shared/PersonaSimple.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXFBlcnNvbmFTaW1wbGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-6s789kwrk7
+
+[C:/Users/Sebastian/Documents/ITQ/SEMESTRE 4/LENGUAJE DE PROGRAMACIÓN 3-SEMESTRE 4-MODULO 2/proyecto/final/PROYECTO FINAL/proyfin/Views/Shared/Simple.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXFNpbXBsZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = b-s2swiy5z51
+
+[C:/Users/Sebastian/Documents/ITQ/SEMESTRE 4/LENGUAJE DE PROGRAMACIÓN 3-SEMESTRE 4-MODULO 2/proyecto/final/PROYECTO FINAL/proyfin/Views/Shared/TipoPersonaSimple.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXFRpcG9QZXJzb25hU2ltcGxlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = b-pjir19lwyp
+
+[C:/Users/Sebastian/Documents/ITQ/SEMESTRE 4/LENGUAJE DE PROGRAMACIÓN 3-SEMESTRE 4-MODULO 2/proyecto/final/PROYECTO FINAL/proyfin/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-ym4pqo7mu7

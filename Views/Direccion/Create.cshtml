@@ -1,0 +1,38 @@
+﻿
+@model DireccionModel
+@{
+    ViewData["Title"] = "Mostrar Direccion";
+    Layout = "Simple";
+}
+@*<div asp-validation-summary="All"></div>*@
+<div>
+    <form method="POST">
+        <label asp-for="Calle"></label>
+        <input asp-for="Calle" />
+        <br />
+        <label asp-for="Barrio"></label>
+        <input asp-for="Barrio" />
+        
+        <br />
+        <label asp-for="DireccionDomiciliaria"></label>
+        <input asp-for="DireccionDomiciliaria" />
+        <br />
+        <label asp-for="Provincia"></label>
+        <input asp-for="Provincia" />
+        <br />
+        <label asp-for="Ciudad"></label>
+        <input asp-for="Ciudad" />
+        <br />
+        <label asp-for="Pais"></label>
+        <input asp-for="Pais" />
+        <br />
+        <label asp-for="IdSucursal"></label>
+        <input asp-for="IdSucursal" />
+        <br />
+        <label asp-for="FechaCreacion"></label>
+        <input asp-for="FechaCreacion" />
+        <br />
+        
+        <input type="submit" />
+    </form>
+</div>

@@ -1,0 +1,20 @@
+﻿
+@model VentaModel
+@{
+    ViewData["Title"] = "Mostrar Venta";
+    Layout = "Simple";
+}
+@*<div asp-validation-summary="All"></div>*@
+<div>
+    <form method="POST">
+        <label asp-for="Fecha"></label>
+        <input asp-for="Fecha" />
+        <br />
+        <label asp-for="IdCliente"></label>
+        <input asp-for="IdCliente" />
+        <br />
+      
+        
+        <input type="submit" />
+    </form>
+</div>

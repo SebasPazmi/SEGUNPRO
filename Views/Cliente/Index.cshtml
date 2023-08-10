@@ -1,0 +1,17 @@
+﻿@model ClienteModel
+@{
+    ViewData["Title"] = "Información Cliente";
+}
+<div>
+    <h1>Cliente</h1>
+    <h2>Id:@Model.Id </h2>
+    <h2>Nombre:@Model.Nombre </h2>
+    <address>
+        <p><strong>Apellido: @Model.Apellido </strong></p>
+        <p><strong>Correo: @Model.Correo </strong></p>
+        <p><strong>Clave: @Model.Clave </strong></p>
+        <p><strong>Fecha Creación: @Model.FechaCreacion </strong></p>
+        
+    </address>
+</div>
+

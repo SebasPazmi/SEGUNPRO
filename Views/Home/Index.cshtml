@@ -1,0 +1,42 @@
+﻿@{
+    ViewData["Title"] = "Home";
+    Layout = "HomeLayout";
+}
+
+<!-- Contenido de la página -->
+
+<head>
+    <link rel="stylesheet" href="~/css/style.css" />
+</head>
+<div class="body">
+    <div class="container-all">
+        <input type="radio" id="1" name="img-slide" hidden>
+        <input type="radio" id="2" name="img-slide" hidden>
+        <input type="radio" id="3" name="img-slide" hidden>
+        <div class="slide">
+            <div class="item-slide">
+                <img src="~/img/baner-one.jpg">
+            </div>
+            <div class="item-slide">
+                <img src="~/img/baner-two.jpg">
+            </div>
+            <div class="item-slide">
+                <img src="~/img/baner-tre.jpg">
+            </div>
+        </div>
+        <div class="pagination">
+            <label for="1" class="pagination-item">
+                <img src="~/img/baner-one.jpg">
+            </label>
+            <label for="2" class="pagination-item">
+                <img src="~/img/baner-two.jpg">
+            </label>
+            <label for="3" class="pagination-item">
+                <img src="~/img/baner-tre.jpg">
+            </label>
+        </div>
+    </div>
+
+    <div style="height: 1000px"> 
+
+    </div>

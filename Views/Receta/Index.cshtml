@@ -1,0 +1,16 @@
+﻿@model RecetaModel
+@{
+    ViewData["Title"] = "Información Receta";
+}
+<h1>Receta</h1>
+<h2>Id:@Model.Id </h2>
+<h2>IdCliente:@Model.IdCliente </h2>
+<address>
+    <p><strong>Fecha: @Model.Fecha </strong></p>
+    <p><strong>IdMedicamento: @Model.IdMedicamento </strong></p>
+    <p><strong>Cantidad: @Model.Cantidad </strong></p>
+    <p><strong>FechaCreacion: @Model.FechaCreacion </strong></p>
+
+
+    </address>
+

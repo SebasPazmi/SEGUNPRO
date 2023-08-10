@@ -1,0 +1,57 @@
+﻿@model List<RecetaModel>
+
+@{
+    ViewData["Title"] = "MultiReceta";
+}
+<h1>DATOS DE RECETA</h1>
+<table class="table" cellpadding="0" cellspacing="0" width="75%" bgcolor="#84b6f4">
+    <thead>
+        <tr>
+            <th scope="col">
+                ID
+            </th>
+            <th scope="col">
+                IDCLIENTE
+            </th>
+            <th scope="col">
+                FECHA
+            </th>
+             <th scope="col">
+                IDMEDICAMENTO
+            </th>
+            <th scope="col">
+                CANTIDAD
+            </th>
+            <th scope="col">
+                FECHACREACION
+            </th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var receta in Model)
+        {
+            <tr>
+                <td>
+                    @receta.Id
+                </td>
+                <td>
+                    @receta.IdCliente
+                </td>
+                <td>
+                    @receta.Fecha
+                </td>
+                <td>
+                    @receta.IdMedicamento
+                </td>
+                <td>
+                    @receta.Cantidad
+                </td>
+                <td>
+                    @receta.FechaCreacion
+                </td>
+                
+      
+            </tr>
+        }
+    </tbody>
+</table>

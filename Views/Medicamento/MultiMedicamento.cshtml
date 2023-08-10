@@ -1,0 +1,60 @@
+﻿@model List<MedicamentoModel>
+
+@{
+    ViewData["Title"] = "MultiMedicamento";
+}
+
+<table class="table table-white table-hover">
+    <thead>
+        <tr>
+            <th scope="col">
+                ID
+            </th>
+            <th scope="col">
+                NOMBRE
+            </th>
+            <th scope="col">
+                DESCRIPCION
+            </th>
+            <th scope="col">
+                STOCK
+            </th>
+            <th scope="col">
+                FECHACREACION
+            </th>
+           
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var medicamento in Model)
+        {
+            <tr>
+
+                <td>
+                    @medicamento.Id
+                </td>
+                <td>
+                    @medicamento.Nombre
+                </td>
+                <td>
+                    @medicamento.Descripcion
+                </td>
+                <td>
+                    @medicamento.Stock
+                </td>
+                <td>
+                    @medicamento.FechaCreacion
+                </td>
+                <td>
+
+
+                    <a asp-action="Details" asp-route-id="@medicamento.medicamentoId">Detalles del Objeto</a>
+                    <a asp-action="Edit" asp-route-id="@medicamento.medicamentoId">Editar</a>
+                    <a asp-action="Delete" asp-route-id="@medicamento.medicamentoId">Eliminar Producto</a>
+
+                </td>
+            </tr>
+        }
+    </tbody>
+
+</table>

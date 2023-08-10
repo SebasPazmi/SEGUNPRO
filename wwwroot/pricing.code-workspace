@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../pricing"
+		},
+		{
+			"path": "../sidebars"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "pricing"
+	}
+}

@@ -1,0 +1,40 @@
+﻿
+@model ProveedorModel
+@{
+    ViewData["Title"] = "Crear Proveedor";
+    Layout = "Simple";
+}
+@*<div asp-validation-summary="All"></div>*@
+<div>
+    <form method="POST">
+        <label asp-for="Nombre"></label>
+        <input asp-for="Nombre" />
+        <br />
+        <label asp-for="Telefono"></label>
+        <input asp-for="Telefono" />
+        
+        <br />
+        <label asp-for="Correo"></label>
+        <input asp-for="Correo" />
+        <br />
+        <label asp-for="Direccion"></label>
+        <input asp-for="Direccion" />
+        <br />
+        <label asp-for="Ruc"></label>
+        <input asp-for="Ruc" />
+        <br />
+        <label asp-for="IdMedicamento"></label>
+        <input asp-for="IdMedicamento" />
+        <br />
+        <label asp-for="Clave"></label>
+        <input asp-for="Clave" />
+        <br />
+        <label asp-for="Clave"></label>
+        <input asp-for="Clave" />
+        <br />
+        <label asp-for="FechaCreacion"></label>
+        <input asp-for="FechaCreacion" />
+        <br />
+        <input type="submit" />
+    </form>
+</div>

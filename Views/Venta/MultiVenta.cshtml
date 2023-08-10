@@ -1,0 +1,45 @@
+﻿@model List<VentaModel>
+
+@{
+    ViewData["Title"] = "MultiVenta";
+}
+<h1>DATOS DE VENTA</h1>
+<table class="table" cellpadding="0" cellspacing="0" width="75%" bgcolor="#84b6f4">
+    <thead>
+        <tr>
+            <th scope="col">
+                ID
+            </th>
+            <th scope="col">
+                FECHA
+            </th>
+            <th scope="col">
+                IDCLIENTE
+            </th>
+            <th scope="col">
+                FECHACREACION
+            </th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var venta in Model)
+        {
+            <tr>
+                <td>
+                    @venta.Id
+                </td>
+                <td>
+                    @venta.Fecha
+                </td>
+                <td>
+                    @venta.IdCliente
+                </td>
+                <td>
+                    @venta.FechaCreacion
+                </td>
+                
+      
+            </tr>
+        }
+    </tbody>
+</table>

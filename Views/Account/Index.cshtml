@@ -1,0 +1,69 @@
+﻿@model ClienteModel
+@{
+    Layout = null;
+    var alertMessage = ViewBag.AlertMessage;
+}
+@if (!string.IsNullOrEmpty(alertMessage))
+{
+    <script>
+        alert('@alertMessage');
+    </script>
+}
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="css/Loguin.css" rel="stylesheet" />
+    <link href='https://unpkg.com/boxicons@2.1.4/css/boxicons.min.css' rel='stylesheet'>
+
+
+</head>
+<body>
+    <div class="figure">
+        <center><img src="img/Logo.jpg" width="375" /></center>
+    </div>
+    
+    <div class="contenedor"></div>
+    <div class="texto-encima"></div>
+    <div class="container">
+
+        
+        </div>
+        <form method="post" asp-action="Index">
+            <div class="info">
+            <header> FAST PHARMACY</header>
+            <h1>Iniciar Sesión</h1>
+            <br>
+            <br>
+            <div class="input-field">
+                <input asp-for="Correo" type="text" class="input" name="correo" id="correo" required>
+                <i class='bx bx-user'></i>
+            </div>
+            <br>
+            <div class="input-field">
+                <input asp-for="Clave" type="Password" class="input" name="clave" id="clave">
+                <i class='bx bx-lock-alt'></i>
+            </div>
+            <br>
+            <div class="input-field">
+                <input type="submit" class="submit" value="Ingresar">
+            </div>
+
+            <div class="two-col">
+                <div class="two">
+                    <br>
+
+                    <label> <a href="#">¿Has olvidado tu contraseña?</a></label>
+
+                </div>
+            </div>
+        </div>
+        </form>
+   
+</body>
+
+</html>
+

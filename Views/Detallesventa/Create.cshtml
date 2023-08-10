@@ -1,0 +1,42 @@
+﻿
+@model DetallesventaModel
+@{
+    ViewData["Title"] = "Mostrar los detalles de venta";
+    Layout = "Simple";
+}
+@*<div asp-validation-summary="All"></div>*@
+<div>
+    <form method="POST">
+        <label asp-for="DetallesVenta"></label>
+        <input asp-for="DetallesVenta" />
+        <br />
+        <label asp-for="Fecha"></label>
+        <input asp-for="Fecha" />
+        <br />
+        <label asp-for="Lugar"></label>
+        <input asp-for="Lugar" />
+        <br />
+        <label asp-for="Cantidad"></label>
+        <input asp-for="Cantidad" />
+        <br />
+        <label asp-for="PrecioUnitario"></label>
+        <input asp-for="PrecioUnitario" />
+        <br />
+        <label asp-for="IdMedicamento"></label>
+        <input asp-for="IdMedicamento" />
+        <br />
+        <label asp-for="IdVenta"></label>
+        <input asp-for="IdVenta" />
+        <br />
+        <label asp-for="IdReceta"></label>
+        <input asp-for="IdReceta" />
+        <br />
+        <label asp-for="FechaCreacion"></label>
+        <input asp-for="FechaCreacion" />
+        <br />
+
+      
+        
+        <input type="submit" />
+    </form>
+</div>

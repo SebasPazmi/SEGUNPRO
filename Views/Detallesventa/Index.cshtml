@@ -1,0 +1,20 @@
+﻿@model DetallesventaModel
+@{
+    ViewData["Title"] = "Información Venta";
+}
+<h1>Detalles de la Venta</h1>
+<h2>Id:@Model.Id </h2>
+<h2>DetallesVenta:@Model.DetallesVenta </h2>
+<address>
+    <p><strong>Fecha: @Model.Fecha </strong></p>
+    <p><strong>Lugar: @Model.Lugar </strong></p>
+    <p><strong>Cantidad: @Model.Cantidad </strong></p>
+    <p><strong>PrecioUnitario: @Model.PrecioUnitario </strong></p>
+    <p><strong>IdMedicamento: @Model.IdMedicamento </strong></p>
+    <p><strong>IdVenta: @Model.IdVenta </strong></p>
+    <p><strong>IdReceta: @Model.IdReceta </strong></p>
+    <p><strong>FechaCreacion: @Model.FechaCreacion </strong></p>
+   
+
+    </address>
+

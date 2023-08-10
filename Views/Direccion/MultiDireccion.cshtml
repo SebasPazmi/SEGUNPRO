@@ -1,0 +1,75 @@
+﻿@model List<DireccionModel>
+
+@{
+    ViewData["Title"] = "MultiDireccion";
+}
+<h1>DATOS DE LA DIRECCION </h1>
+<table class="table" cellpadding="0" cellspacing="0" width="75%" bgcolor="#84b6f4">
+    <thead>
+        <tr>
+            <th scope="col">
+                ID
+            </th>
+            <th scope="col">
+                CALLE
+            </th>
+            <th scope="col">
+                BARRIO
+            </th>
+            <th scope="col">
+                DIRECCIONDOMICILIARIA
+            </th>
+            <th scope="col">
+                PROVINCIA
+            </th>
+            <th scope="col">
+                CIUDAD
+            </th>
+            <th scope="col">
+                PAIS
+            </th>
+            <th scope="col">
+                IDSUCURSAL
+            </th>
+            <th scope="col">
+                FECHACREACION
+            </th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var direccion in Model)
+        {
+            <tr>
+                <td>
+                    @direccion.Id
+                </td>
+                <td>
+                    @direccion.Calle
+                </td>
+                <td>
+                    @direccion.Barrio
+                </td>
+                <td>
+                    @direccion.DireccionDomiciliaria
+                </td>
+                <td>
+                    @direccion.Provincia
+                </td>
+                <td>
+                    @direccion.Ciudad
+                </td>
+                <td>
+                    @direccion.Pais
+                </td>
+                <td>
+                    @direccion.IdSucursal
+                </td>
+                <td>
+                    @direccion.FechaCreacion
+                </td>
+                
+      
+            </tr>
+        }
+    </tbody>
+</table>

@@ -1,0 +1,27 @@
+﻿
+@model RecetaModel
+@{
+    ViewData["Title"] = "Mostrar Receta";
+    Layout = "Simple";
+}
+@*<div asp-validation-summary="All"></div>*@
+<div>
+    <form method="POST">
+        <label asp-for="IdCliente"></label>
+        <input asp-for="IdCliente" />
+        <br />
+        <label asp-for="Fecha"></label>
+        <input asp-for="Fecha" />
+        <br />
+        <label asp-for="IdMedicamento"></label>
+        <input asp-for="IdMedicamento" />
+        <br />
+        <label asp-for="Cantidad"></label>
+        <input asp-for="Cantidad" />
+        <br />
+        <label asp-for="FechaCreacion"></label>
+        <input asp-for="FechaCreacion" />
+        <br />
+        <input type="submit" />
+    </form>
+</div>

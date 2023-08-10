@@ -1,0 +1,29 @@
+﻿
+@model SucursalModel
+@{
+    ViewData["Title"] = "Mostrar Sucursal";
+    Layout = "Simple";
+}
+@*<div asp-validation-summary="All"></div>*@
+<div>
+    <form method="POST">
+        <label asp-for="Ubicacion"></label>
+        <input asp-for="Ubicacion" />
+        <br />
+        <label asp-for="Ruc"></label>
+        <input asp-for="Ruc" />
+        
+        <br />
+        <label asp-for="IdDireccion"></label>
+        <input asp-for="IdDireccion" />
+        <br />
+        <label asp-for="IdEmpleado"></label>
+        <input asp-for="IdEmpleado" />
+        <br />
+        <label asp-for="FechaCreacion"></label>
+        <input asp-for="FechaCreacion" />
+        <br />
+        
+        <input type="submit" />
+    </form>
+</div>

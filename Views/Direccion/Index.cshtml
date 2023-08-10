@@ -1,0 +1,19 @@
+﻿@model DireccionModel
+@{
+    ViewData["Title"] = "Información de la dirección";
+}
+<h1>Direccion</h1>
+<h2>Id:@Model.Id </h2>
+<h2>Calle:@Model.Calle </h2>
+<address>
+    <p><strong>Barrio: @Model.Barrio </strong></p>
+    <p><strong>DireccionDomiciliaria: @Model.DireccionDomiciliaria </strong></p>
+    <p><strong>Provincia: @Model.Provincia </strong></p>
+    <p><strong>Ciudad: @Model.Ciudad </strong></p>
+    <p><strong>Pais: @Model.Pais </strong></p>
+    <p><strong>IdSucursal: @Model.IdSucursal </strong></p>
+    <p><strong>FechaCreacion: @Model.FechaCreacion </strong></p>
+
+
+    </address>
+

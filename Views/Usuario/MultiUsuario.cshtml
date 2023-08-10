@@ -1,0 +1,51 @@
+﻿@model List<UsuarioModel>
+
+@{
+    ViewData["Title"] = "MultiUsuario";
+}
+<h1>DATOS DEL USUARIO</h1>
+<table class="table" cellpadding="0" cellspacing="0" width="75%" bgcolor="#84b6f4">
+    <thead>
+        <tr>
+            <th scope="col">
+                ID
+            </th>
+            <th scope="col">
+                NOMBRE
+            </th>
+            <th scope="col">
+                CLAVE
+            </th>
+            <th scope="col">
+                IDEMPLEADO
+            </th>
+            <th scope="col">
+                FECHACREACION
+            </th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var usuario in Model)
+        {
+            <tr>
+                <td>
+                    @usuario.Id
+                </td>
+                <td>
+                    @usuario.Nombre
+                </td>
+                <td>
+                    @usuario.Clave
+                </td>
+                <td>
+                    @usuario.IdEmpleado
+                </td>
+                <td>
+                    @usuario.FechaCreacion
+                </td>
+                
+      
+            </tr>
+        }
+    </tbody>
+</table>
